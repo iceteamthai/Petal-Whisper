@@ -4,32 +4,32 @@ import Footer from "../Components/Footer";
 const summerFlowers = [
   {
     title: "Sunflower",
-    img: "public/img/Summer/Sunflower.jpg",
+    img: "/img/Summer/Sunflower.jpg",
     desc: "สัญลักษณ์ของความสุขความเข้มแข็ง และความหวัง",
   },
   {
     title: "Geranium",
-    img: "public/img/Summer/Geranium.jpg",
+    img: "/img/Summer/Geranium.jpg",
     desc: "ความสุขุม ความมั่นคงและความเป็นมิตร",
   },
   {
     title: "Lily",
-    img: "public/img/Summer/Lily.jpg",
+    img: "/img/Summer/Lily.jpg",
     desc: "ความสง่างาม ความสดชื่นและความงามอันบริสุทธิ์",
   },
   {
     title: "Yellow Rose",
-    img: "public/img/Summer/Yellow Rose.jpg",
+    img: "/img/Summer/Yellow Rose.jpg",
     desc: "ความอบอุ่น สดใส มิตรภาพ",
   },
   {
     title: "Daisy",
-    img: "public/img/Summer/Daisy.jpg",
+    img: "/img/Summer/Daisy.jpg",
     desc: "ความไร้เดียงสา ความจริงใจความสุขเล็กๆ",
   },
   {
     title: "Orchid",
-    img: "public/img/Summer/Orchid.jpg",
+    img: "/img/Summer/Orchid.jpg",
     desc: "ความหรูหรา ความงดงาม  และความเข้มแข็ง",
   },
 ];

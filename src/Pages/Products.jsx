@@ -2,25 +2,25 @@ import React from 'react';
 import CardList from '../Components/CardList';
 import Footer from '../Components/Footer';
 import ErrorMessage from '../Components/ErrorMessage';
-import cardData from '../service/cardData';''
+import CardData from '../service/cardData';''
 import { Link } from 'react-router-dom';
 
 const products = [
   {
     title: "Summer",
-    img: "public/img/summer.jpg",
+    img: "/img/summer.jpg",
     desc: "“ความสดใสของฤดูร้อนสะท้อนผ่านดอกไม้สีสันสดจัดจ้าน เต็มไปด้วยพลังงาน ความสุข และความอบอุ่น เหมาะสำหรับการมอบเป็นกำลังใจหรือสร้างรอยยิ้มให้คนพิเศษในวันที่สดใส”",
     path: "/summer"
   },
   {
     title: "Rainy",
-    img: "public/img/Rainy.jpg",
+    img: "/img/Rainy.jpg",
     desc: "ฤดูฝนชุ่มฉ่ำเต็มไปด้วยความโรแมนติกอันอ่อนโยน สื่อถึงความสงบ สบายใจ และความรักที่ละมุนละไมเหมาะกับการส่งต่อความคิดถึงและกำลังใจท่ามกลางสายฝน",
     path: "/rainy"
   },
   {
     title: "Winter",
-    img: "public/img/winter.jpg",
+    img: "/img/winter.jpg",
     desc: "ฤดูหนาวคือช่วงเวลาแห่งความอบอุ่นในอากาศเย็นสร้างบรรยากาศโรแมนติกและหรูหรา เหมาะสำหรับการเฉลิมฉลอง ความรักอันมั่นคง และมิตรภาพอันจริงใจ โดยเฉพาะในเทศกาลคริสต์มาสและปีใหม",
     path: "/winter"
   },
@@ -31,7 +31,7 @@ const Products = () => {
     <div
       className="relative w-full min-h-screen  bg-fixed flex flex-col"
       style={{
-        backgroundImage: "url('public/img/BgFlower.JPG')",
+        backgroundImage: "url('/img/BgFlower.JPG')",
         backgroundSize: "cover",
         backgroundPosition: "center",
       }}

@@ -4,32 +4,32 @@ import Footer from "../Components/Footer";
 const rainyFlowers = [
   {
     title: "Hydrangea",
-    img: "public/img/Rainy/Hydrangea.jpg",
+    img: "/img/Rainy/Hydrangea.jpg",
     desc: "ความกตัญญู ความเข้าใจ และความโรแมนติก",
   },
   {
     title: "Delphinium",
-    img: "public/img/Rainy/Delphinium.jpg",
+    img: "/img/Rainy/Delphinium.jpg",
     desc: "ความสง่างาม ความไว้วางใจ และความเปิดใจ",
   },
   {
     title: "White Lily",
-    img: "public/img/Rainy/White Lily.jpg",
+    img: "/img/Rainy/White Lily.jpg",
     desc: "ความรัก ความห่วงใย และกำลังใจ",
   },
   {
     title: "Purple Rose",
-    img: "public/img/Rainy/Purple-rose.jpg",
+    img: "/img/Rainy/Purple-rose.jpg",
     desc: "ความฝัน ความลึกลับและความรักลึกซึ้ง",
   },
   {
     title: "Carnation",
-    img: "public/img/Rainy/Carnation.jpg",
+    img: "/img/Rainy/Carnation.jpg",
     desc: "ความรัก ความห่วงใยและกำลังใจ",
   },
   {
     title: "Lotus",
-    img: "public/img/Rainy/Lotus.jpg",
+    img: "/img/Rainy/Lotus.jpg",
     desc: "ความสงบ ความศรัทธา และความเข้มแข็งภายใน",
   },
 ];

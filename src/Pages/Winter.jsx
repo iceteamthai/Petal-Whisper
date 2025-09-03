@@ -4,32 +4,32 @@ import Footer from "../Components/Footer";
 const winterFlowers = [
   {
     title: "Red Rose",
-    img: "public/img/Winter/Red Rose.jpg",
+    img: "/img/Winter/Red Rose.jpg",
     desc: "ความรักมั่นคง โรแมนติก ความหลงใหล",
   },
   {
     title: "Tulip",
-    img: "public/img/Winter/Tulip.jpg",
+    img: "/img/Winter/Tulip.jpg",
     desc: "ความรักบริสุทธิ์ ความอ่อนโยน ความจริงใจ",
   },
   {
     title: "Gypsophila",
-    img: "public/img/Winter/Gypsophila.jpg",
+    img: "/img/Winter/Gypsophila.jpg",
     desc: "ความอ่อนโยน ความรักนิรันดร์ ความบริสุทธิ์",
   },
   {
     title: "Poinsettia",
-    img: "public/img/Winter/Poinsettia.webp",
+    img: "/img/Winter/Poinsettia.webp",
     desc: "ความสุข ความโชคดี เทศกาลคริสต์มาส",
   },
   {
     title: "Camellia",
-    img: "public/img/Winter/Camellia.jpg",
+    img: "/img/Winter/Camellia.jpg",
     desc: "ความสง่างาม ความซื่อสัตย์ ความสมบูรณ์แบบ",
   },
   {
     title: "Pansy",
-    img: "public/img/Winter/Pansy.jpg",
+    img: "/img/Winter/Pansy.jpg",
     desc: "ความรักที่ลึกซึ้ง ความคิดถึง และการรำลึกถึง",
   },
 ];

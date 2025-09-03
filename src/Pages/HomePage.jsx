@@ -1,5 +1,4 @@
-
-import React from 'react';
+  import React from 'react';
 import Footer from '../Components/Footer';
 import Button from './../Components/Button';
 
@@ -10,7 +9,7 @@ const HomePage = () => {
       <section
         className="relative w-full h-[90vh] flex items-center justify-center text-center text-white"
         style={{
-          backgroundImage: "url('public/img/BgFlower.JPG')", // ✅ แก้ path ถูกต้อง (เอา /public ออก)
+          backgroundImage: "url('/img/BgFlower.JPG')", // ✅ แก้ path ถูกต้อง (เอา /public ออก)
           backgroundSize: "cover",
           backgroundPosition: "center",
         }}
