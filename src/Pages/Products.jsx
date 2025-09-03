@@ -31,7 +31,7 @@ const Products = () => {
     <div
       className="relative w-full min-h-screen  bg-fixed flex flex-col"
       style={{
-        backgroundImage: "url('/img/BgFlower.JPG')",
+        backgroundImage: "url('/img/BgFlower.jpg')",
         backgroundSize: "cover",
         backgroundPosition: "center",
       }}
