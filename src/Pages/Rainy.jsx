@@ -14,7 +14,7 @@ const rainyFlowers = [
   },
   {
     title: "White Lily",
-    img: "/img/Rainy/White Lily.jpg",
+    img: "/img/Rainy/WhiteLily.jpg",
     desc: "ความรัก ความห่วงใย และกำลังใจ",
   },
   {
